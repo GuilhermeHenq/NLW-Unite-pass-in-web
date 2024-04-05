@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1150897317533332617%2Fnlw-esports&psig=AOvVaw2Fu8gG12TuaaAqHHWw5sNV&ust=1712407672815000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC-t-6Nq4UDFQAAAAAdAAAAABAE" width="100%">
+  <img alt="" src="https://s3-alpha.figma.com/hub/file/5462239066/fa598817-9151-4cf2-ba3d-841e0592522b-cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
