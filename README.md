@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="https://s3-alpha.figma.com/hub/file/5462239066/fa598817-9151-4cf2-ba3d-841e0592522b-cover.png" width="100%">
+  <img alt="" src="/public/Thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
